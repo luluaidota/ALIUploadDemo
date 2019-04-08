@@ -12,7 +12,7 @@
 #import "DemoApi.h"
 #import "GLUploadDataManager.h"
 
-static VODUploadClient *Uploader = nil;
+static VODUploadClient *Uploader;
 
 @interface GLVODUpload()
 
@@ -28,7 +28,7 @@ static VODUploadClient *Uploader = nil;
     if (!g_manager) {
         dispatch_once(&onceToken, ^{
             g_manager = [GLVODUpload new];
-            Uploader = [VODUploadClient new];
+            Uploader = [[VODUploadClient alloc] init];
             
             [Uploader init:[GLUploadDataManager shareInstance].accessKeyId accessKeySecret:[GLUploadDataManager shareInstance].accessKeySecret secretToken:[GLUploadDataManager shareInstance].securityToken expireTime:[GLUploadDataManager shareInstance].expirationTime listener:[g_manager structureListener]];
         });

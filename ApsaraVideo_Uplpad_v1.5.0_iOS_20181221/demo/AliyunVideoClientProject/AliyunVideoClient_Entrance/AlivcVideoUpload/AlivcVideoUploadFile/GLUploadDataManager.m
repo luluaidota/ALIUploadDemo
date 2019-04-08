@@ -31,11 +31,12 @@
     
     [DemoApi requestSTSWithHandler:^(NSString *keyId, NSString *keySecret, NSString *token, NSString *expireTime, NSError *error) {
         if (error == nil) {
-            block(YES);
+            
             weakSelf.accessKeyId = keyId;
             weakSelf.accessKeySecret = keySecret;
             weakSelf.securityToken = token;
             weakSelf.expirationTime = expireTime;
+            block(YES);
         }else {
             block(NO);
         }

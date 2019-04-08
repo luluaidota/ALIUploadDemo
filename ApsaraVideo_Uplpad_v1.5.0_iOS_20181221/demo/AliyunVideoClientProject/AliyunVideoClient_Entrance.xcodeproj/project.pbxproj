@@ -21,7 +21,6 @@
 		83EB6E6720D72FD000219AC0 /* AlivcStringConvertTool.m in Sources */ = {isa = PBXBuildFile; fileRef = 83EB6E6120D72FCF00219AC0 /* AlivcStringConvertTool.m */; };
 		83EB6E6920D72FD000219AC0 /* AlivcLiveUserCountTool.m in Sources */ = {isa = PBXBuildFile; fileRef = 83EB6E6620D72FCF00219AC0 /* AlivcLiveUserCountTool.m */; };
 		83EB6E6F20D7306A00219AC0 /* AlivcStringDrawing.m in Sources */ = {isa = PBXBuildFile; fileRef = 83EB6E6E20D7306A00219AC0 /* AlivcStringDrawing.m */; };
-		9723310C2255B32F0005A0DA /* GLVideoUpload.m in Sources */ = {isa = PBXBuildFile; fileRef = 9723310B2255B32F0005A0DA /* GLVideoUpload.m */; };
 		972331272255EAF30005A0DA /* GLVODUpload.m in Sources */ = {isa = PBXBuildFile; fileRef = 972331252255EAF30005A0DA /* GLVODUpload.m */; };
 		9723312A2255EBB10005A0DA /* GLUploadDataManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 972331282255EBB00005A0DA /* GLUploadDataManager.m */; };
 		97CE7DD4225594AB00B81F96 /* testVideo.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 97CE7DD3225594AA00B81F96 /* testVideo.mp4 */; };
@@ -194,8 +193,6 @@
 		83EB6EBD20D900AE00219AC0 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		85412BD7EDD3605676FCEA6F /* Pods-AliyunVideoClient_EntranceUITests.alivcshortvideo_standard.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AliyunVideoClient_EntranceUITests.alivcshortvideo_standard.xcconfig"; path = "Pods/Target Support Files/Pods-AliyunVideoClient_EntranceUITests/Pods-AliyunVideoClient_EntranceUITests.alivcshortvideo_standard.xcconfig"; sourceTree = "<group>"; };
 		96359C94D3F50BD9EB5C8EA7 /* Pods-AliyunVideoClient_Entrance.alivcvideoplay.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AliyunVideoClient_Entrance.alivcvideoplay.xcconfig"; path = "Pods/Target Support Files/Pods-AliyunVideoClient_Entrance/Pods-AliyunVideoClient_Entrance.alivcvideoplay.xcconfig"; sourceTree = "<group>"; };
-		9723310A2255B32F0005A0DA /* GLVideoUpload.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GLVideoUpload.h; sourceTree = "<group>"; };
-		9723310B2255B32F0005A0DA /* GLVideoUpload.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GLVideoUpload.m; sourceTree = "<group>"; };
 		972331252255EAF30005A0DA /* GLVODUpload.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GLVODUpload.m; sourceTree = "<group>"; };
 		972331262255EAF30005A0DA /* GLVODUpload.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GLVODUpload.h; sourceTree = "<group>"; };
 		972331282255EBB00005A0DA /* GLUploadDataManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GLUploadDataManager.m; sourceTree = "<group>"; };
@@ -463,8 +460,6 @@
 				D250A86821CCAEAD0064CFEA /* VODSTSViewController.m */,
 				D250A86921CCAEAD0064CFEA /* VODUploadDemo.h */,
 				D250A86A21CCAEAD0064CFEA /* VODUploadDemo.m */,
-				9723310A2255B32F0005A0DA /* GLVideoUpload.h */,
-				9723310B2255B32F0005A0DA /* GLVideoUpload.m */,
 				972331262255EAF30005A0DA /* GLVODUpload.h */,
 				972331252255EAF30005A0DA /* GLVODUpload.m */,
 				972331292255EBB10005A0DA /* GLUploadDataManager.h */,
@@ -1122,7 +1117,6 @@
 				F38B498B20A5350800CD6C94 /* AlivcUserInfoViewController.m in Sources */,
 				D250A86C21CCAEAE0064CFEA /* AuthAddressViewController.m in Sources */,
 				D269DC6421778D1200C55896 /* AlivcProfile.m in Sources */,
-				9723310C2255B32F0005A0DA /* GLVideoUpload.m in Sources */,
 				F3349ACD20D126F8001D99B6 /* AliyunReachability.m in Sources */,
 				F3909D522084A8780032740C /* AlivcAppServer.m in Sources */,
 				F3B56FD6206386AE0075DEAA /* AppDelegate.m in Sources */,
