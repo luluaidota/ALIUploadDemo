@@ -1,0 +1,6 @@
+framework module Pods_aliyunTest {
+  umbrella header "Pods-aliyunTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -31,6 +31,7 @@ static VODUploadClient *Uploader;
             Uploader = [[VODUploadClient alloc] init];
             
             [Uploader init:[GLUploadDataManager shareInstance].accessKeyId accessKeySecret:[GLUploadDataManager shareInstance].accessKeySecret secretToken:[GLUploadDataManager shareInstance].securityToken expireTime:[GLUploadDataManager shareInstance].expirationTime listener:[g_manager structureListener]];
+//            [Uploader init:@"STS.NJ1HQ6jMJ5XDmiFF8utkEVaUH" accessKeySecret:@"ArfTJqot786MYNiVUTW6mqrSiX334LXc6yjw1zYPk3Yj" secretToken:@"CAIS9wF1q6Ft5B2yfSjIr4mEA+uCh5Jrgpqvb0/3ojggeORpuaT+qjz2IHFFdHVhAukWv/wwmm1Y7fwZlqNNTJN+SFffbMx2tlW3N4hWJtivgde8yJBZoqDHcDHhM3yW9cvWZPqDArG5U/yxalfCuzZuyL/hD1uLVECkNpv77/wKcNMbDEvaAD1dH4UUXHwAzvUXLnzML/2gHwf3i27LdipStxF7lHl05NbUoKTeyGKH0weim7VI99mqfMf8NZMyBvolDYfpht4RX7HazStd5yJN8KpLl6Fe8V/FxIrMUgkNsk7fY7uMrYMyfFQjPbJRBalIvEIiOCTUdwO4GoABBx4scU9Kuk42HgX6RLTg2GeS4VEa6bmJiwUt2hu+mSs5n+C0kxm8nVF0jP+egOByskc8GhuakMIshPIOB+bcZdcHPfdlbdfKZqCK1QNjm+iltGbEir4XPUuAc4o92Wzj2WqyCvjjqaULDoLzwupt3nfBhVinDbQc3yNKXlwyBdw=" expireTime:@"2019-04-08T10:08:18Z" listener:[g_manager structureListener]];
         });
     }
     

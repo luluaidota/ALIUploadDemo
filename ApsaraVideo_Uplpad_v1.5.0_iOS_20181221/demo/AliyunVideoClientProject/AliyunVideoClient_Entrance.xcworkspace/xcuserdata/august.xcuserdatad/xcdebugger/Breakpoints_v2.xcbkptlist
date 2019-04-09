@@ -10,7 +10,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "AliyunVideoClient_Entrance/AlivcVideoUpload/AlivcVideoUploadFile/VODAuthAddressViewController.m"
-            timestampString = "576397774.195505"
+            timestampString = "576418979.788734"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "102"
@@ -26,7 +26,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "AliyunVideoClient_Entrance/AlivcVideoUpload/AlivcVideoUploadFile/VODAuthAddressViewController.m"
-            timestampString = "576397774.195924"
+            timestampString = "576418979.78882"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "215"
@@ -84,7 +84,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "AliyunVideoClient_Entrance/AlivcVideoUpload/AlivcVideoUploadFile/VODAuthAddressViewController.m"
-            timestampString = "576397774.196324"
+            timestampString = "576418979.789017"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "84"
@@ -179,44 +179,12 @@
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "AliyunVideoClient_Entrance/AlivcVideoUpload/AlivcVideoUploadFile/VODAuthAddressViewController.m"
-            timestampString = "576397774.196822"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "135"
-            endingLineNumber = "135"
-            landmarkName = "-addFile:"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "AliyunVideoClient_Entrance/AlivcVideoUpload/AlivcVideoUploadFile/GLUploadDataManager.m"
-            timestampString = "576397774.197126"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "33"
-            endingLineNumber = "33"
-            landmarkName = "-getVODCredentialsCompleteHandle:"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
             filePath = "AliyunVideoClient_Entrance/AlivcVideoUpload/AlivcVideoUploadFile/GLVODUpload.m"
-            timestampString = "576397774.197186"
+            timestampString = "576418979.78939"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "177"
-            endingLineNumber = "177"
+            startingLineNumber = "178"
+            endingLineNumber = "178"
             landmarkName = "-uploadFileWithFilePath:videoInfo:"
             landmarkType = "7">
          </BreakpointContent>
@@ -228,39 +196,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "AliyunVideoClient_Entrance/AlivcVideoUpload/AlivcVideoUploadFile/GLVODUpload.m"
-            timestampString = "576397774.197248"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "28"
-            endingLineNumber = "28"
-            landmarkName = "+sharedInstance"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "AliyunVideoClient_Entrance/AlivcVideoUpload/AlivcVideoUploadFile/GLVODUpload.m"
-            timestampString = "576397774.197304"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "33"
-            endingLineNumber = "33"
-            landmarkName = "+sharedInstance"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "AliyunVideoClient_Entrance/AlivcVideoUpload/AlivcVideoUploadFile/GLVODUpload.m"
-            timestampString = "576397774.19736"
+            timestampString = "576418979.789526"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "29"
@@ -276,12 +212,28 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "AliyunVideoClient_Entrance/AlivcVideoUpload/AlivcVideoUploadFile/GLVODUpload.m"
-            timestampString = "576397774.197413"
+            timestampString = "576418979.789587"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "100"
-            endingLineNumber = "100"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
             landmarkName = "-structureListener"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AliyunVideoClient_Entrance/AlivcVideoUpload/AlivcVideoUploadFile/VODAuthAddressViewController.m"
+            timestampString = "576419001.433746"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "137"
+            endingLineNumber = "137"
+            landmarkName = "-addFile:"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
