@@ -115,7 +115,7 @@
 //        }
 //    }];
     
-    [uploader init:@"STS.NJ7ZW7HU49FKcp9bzgQBZZ1fF" accessKeySecret:@"Fj94eiStJjPeYQY5zCxgkxo6KFt7nSe1DNSZmCBixB4T" secretToken:@"CAIS9wF1q6Ft5B2yfSjIr4mCEe2DpYoVjoSgYVaIhnoyXc12tfTNpDz2IHFFdHVhAukWv/wwmm1Y7fwZlqNNTJN+SFffbMx2tg3hbpRWJtivgde8yJBZoqDHcDHhM3yW9cvWZPqDArG5U/yxalfCuzZuyL/hD1uLVECkNpv77/wKcNMbDEvaAD1dH4UUXHwAzvUXLnzML/2gHwf3i27LdipStxF7lHl05NbUoKTeyGKH0weim7VI99mqfMf8NZMyBvolDYfpht4RX7HazStd5yJN8KpLl6Fe8V/FxIrMUgkNsk7fY7uMrYMyfFQjPbJRBalIvEIiOCTUdwO4GoABskcBkIEo+JJH4r9x7iDhnf8uQaBKkHg0rr1F9NRpcac0v2g9v3pj2aA9bUKeRebb8yv2/d/oSP/S5FHFQF7hMvGqzDIbgiArJpXk1e1uNejq3PpFGvesXToShY8YvDS2MGjkFH+eUwJwzCJcj8iK/g/SMMVvEZQaui2MZk87UHo=" expireTime:@"2019-04-09T02:47:05Z" listener:listener];
+    [uploader init:@"STS.NH91yjHdoxdu1hK4761t5pMsx" accessKeySecret:@"D72kpWwXsuckFke298hsRi2PDUGQw2uL1r7pQt15oC1Y" secretToken:@"CAIS9wF1q6Ft5B2yfSjIr4uMesPepbtOz6aeM0760DdjPfsZn4jYmjz2IHFFdHVhAukWv/wwmm1Y7fwZlqNNTJN+SFffbMx2tmnOQetpJtivgde8yJBZoqDHcDHhM3yW9cvWZPqDArG5U/yxalfCuzZuyL/hD1uLVECkNpv77/wKcNMbDEvaAD1dH4UUXHwAzvUXLnzML/2gHwf3i27LdipStxF7lHl05NbUoKTeyGKH0weim7VI99mqfMf8NZMyBvolDYfpht4RX7HazStd5yJN8KpLl6Fe8V/FxIrMUgkNsk7fY7uMrYMyfFQjPbJRBalIvEIiOCTUdwO4GoABSy3W1x7qpDLozID+NzQ48B37rdSxtMaLHr5DE0vG5nulCZHcFBXcXBoWOr10LfP12cQEEWumeVskuZMjX4vbno/KH3PvSznigiBEa6mXyB+nQmvvhx2FCXcsxGyX9AmbM3atBwzy7rY0cCUgQ6/qkWO8CUg+71lmwvYOGTw9wZQ=" expireTime:@"2019-04-09T03:13:37Z" listener:listener];
     
 //    [self addFile];
     
